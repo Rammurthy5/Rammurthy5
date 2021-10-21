@@ -1,8 +1,7 @@
 ### Hi there 👋
-### I am Software Engineer - Backend.
-### specialised in Python (Django, Flask). 
+### I am a Software Engineer - Backend specialisation. Good hands-on building Backend systems using Python (Django, Flask) & various other layers required for Backend. 
 ### Upcoming Go lang Developer
-### AWS Certified Developer  
+### AWS Certified   
 
 
 <!--
