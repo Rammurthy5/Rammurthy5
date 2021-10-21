@@ -1,5 +1,9 @@
 ### Hi there 👋
-## I am Software Engineer - Backend specialised in Python (Django, Flask). Upcoming Go lang. 
+## I am Software Engineer - Backend.
+## specialised in Python (Django, Flask). 
+## Upcoming Go lang Developer
+## AWS Certified Developer  
+
 
 <!--
 **Rammurthy5/Rammurthy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
