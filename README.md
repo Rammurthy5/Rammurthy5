@@ -1,6 +1,5 @@
 ### Hi there 👋
-### I am a Software Engineer - Distributed Systems specialisation. Good hands-on building Backend systems using Golang, Python (FASTAPI, Django, Flask) & various other layers required for Backend, K8s. 
-### Done a bit of Ruby on Rails as well.
+### I like building Distributed, scaleable backend systems. Currently doing platform engineering. Good hands-on building Backend systems using Golang, Python (FASTAPI, Django, Flask) & various other layers required for Backend, K8s. 
 ### AWS Certified   
 
 
